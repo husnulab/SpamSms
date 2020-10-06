@@ -48,7 +48,7 @@ $ pip2 install mechanize
 
 $ pip2 install requests
 
-$ git clone https://github.com/Sabila152/SpamSms
+$ git clone https://github.com/husnulab/SpamSms
 
 $ cd SpamSms
 
